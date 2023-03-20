@@ -1,0 +1,15 @@
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\bin\Debug\net6.0\tugas_pemrograman1.exe
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\bin\Debug\net6.0\tugas_pemrograman1.deps.json
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\bin\Debug\net6.0\tugas_pemrograman1.runtimeconfig.json
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\bin\Debug\net6.0\tugas_pemrograman1.dll
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\bin\Debug\net6.0\tugas_pemrograman1.pdb
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.csproj.AssemblyReference.cache
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.AssemblyInfoInputs.cache
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.AssemblyInfo.cs
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.csproj.CoreCompileInputs.cache
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.dll
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\refint\tugas_pemrograman1.dll
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.pdb
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\tugas_pemrograman1.genruntimeconfig.cache
+D:\c++_haitsam\tugas_pemrograman1\tugas_pemrograman1\obj\Debug\net6.0\ref\tugas_pemrograman1.dll
